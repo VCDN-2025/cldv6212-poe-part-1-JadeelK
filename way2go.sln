@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "way2go", "way2go\way2go.csproj", "{632C841C-AA2D-45CB-A0B3-77774E02277B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632C841C-AA2D-45CB-A0B3-77774E02277B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632C841C-AA2D-45CB-A0B3-77774E02277B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632C841C-AA2D-45CB-A0B3-77774E02277B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632C841C-AA2D-45CB-A0B3-77774E02277B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
